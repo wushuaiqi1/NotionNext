@@ -2,7 +2,10 @@ module.exports = {
   env: {
     browser: true,
     es2021: true,
-    node: true
+    node: true,
+    NEXT_PUBLIC_CONTACT_EMAIL: '1262458648@qq.com',
+    NEXT_PUBLIC_CONTACT_GITHUB: 'https://github.com/wushuaiqi1',
+    NEXT_PUBLIC_CONTACT_BILIBILI: 'https://space.bilibili.com/480298778',
   },
   extends: ['plugin:react/recommended', 'plugin:@next/next/recommended', 'standard', 'prettier'],
   parserOptions: {
