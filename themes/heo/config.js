@@ -1,15 +1,15 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2024-08-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-08-20', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客，有问题可以联系我！' },
-    { title: '这个世界急着要听年少有为的故事' },
-    { title: '积极向上的生命力' },
-    { title: '熵减聚焦'},
-    { title: '为热爱全力以赴'},
+    { title: '欢迎来到我的博客，有问题可以联系我！', url: 'https://wushuaiqi.vercel.app/' },
+    { title: '这个世界急着要听年少有为的故事', url: 'https://wushuaiqi.vercel.app/' },
+    { title: '积极向上的生命力', url: 'https://wushuaiqi.vercel.app/' },
+    { title: '熵减聚焦', url: 'https://wushuaiqi.vercel.app/' },
+    { title: '为热爱全力以赴', url: 'https://wushuaiqi.vercel.app/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -20,10 +20,10 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
+  HEO_HERO_TITLE_3: '吃了好几口羊Oo',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_5: '网站发布于2024年08月20日',
+  HEO_HERO_TITLE_LINK: 'https://wushuaiqi.vercel.app/',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -49,10 +49,8 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
+  HEO_INFO_CARD_URL2: 'https://github.com/wushuaiqi1',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
-  HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
@@ -114,7 +112,7 @@ const CONFIG = {
     }
   ],
 
-  HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
