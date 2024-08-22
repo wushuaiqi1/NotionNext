@@ -5,8 +5,9 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客，有问题可以联系我！', url: 'https://wushuaiqi.vercel.app/' },
     { title: '这个世界急着要听年少有为的故事', url: 'https://wushuaiqi.vercel.app/' },
+    { title: '人不能太贪心，得了千钱想万钱', url: 'https://wushuaiqi.vercel.app/' },
+    { title: '做什么都可以，唯一的重点是：要认真', url: 'https://wushuaiqi.vercel.app/' },
     { title: '积极向上的生命力', url: 'https://wushuaiqi.vercel.app/' },
     { title: '熵减聚焦', url: 'https://wushuaiqi.vercel.app/' },
     { title: '为热爱全力以赴', url: 'https://wushuaiqi.vercel.app/' }
@@ -38,12 +39,6 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
   ],
 
   // 个人资料底部按钮
