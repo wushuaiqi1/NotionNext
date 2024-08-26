@@ -24,7 +24,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '吃了好几口羊Oo',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '网站发布于2024年08月20日',
-  HEO_HERO_TITLE_LINK: 'https://wushuaiqi.vercel.app/',
+  HEO_HERO_TITLE_LINK: 'https://qqqi.top/',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
