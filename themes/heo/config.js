@@ -5,12 +5,10 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '这个世界急着要听年少有为的故事', url: 'https://wushuaiqi.vercel.app/' },
-    { title: '人不能太贪心，得了千钱想万钱', url: 'https://wushuaiqi.vercel.app/' },
-    { title: '做什么都可以，唯一的重点是：要认真', url: 'https://wushuaiqi.vercel.app/' },
-    { title: '积极向上的生命力', url: 'https://wushuaiqi.vercel.app/' },
-    { title: '熵减聚焦', url: 'https://wushuaiqi.vercel.app/' },
-    { title: '为热爱全力以赴', url: 'https://wushuaiqi.vercel.app/' }
+    { title: '做什么都可以，唯一的重点是：要认真', url: 'https://qqqi.top/' },
+    { title: '积极向上的生命力', url: 'https://qqqi.top/' },
+    { title: '熵减聚焦', url: 'https://qqqi.top/' },
+    { title: '为热爱全力以赴', url: 'https://qqqi.top/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
